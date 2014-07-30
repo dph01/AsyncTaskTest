@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">OvaPhone</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="action_ovaphone_user_settings">OvaPhone Settings</string>
+    <string name="action_ovaphone_admin_settings">Ovaphone Admin Settings</string>
+    <string name="action_android_settings">Wifi Settings</string>
+    <string name="action_launch_skype">Launch Skype</string>
+    <string name="action_skype_test_call">Skype Test Call</string>
+    <string name="action_login_to_skype">Login to Skype</string>
+    <string name="action_logout_of_skype">Logout of Skype</string>
+    <string name="action_quit_main_activity">Exit Ovaphone</string>
+    <string name="action_set_as_main_contact">Set as main contact</string>
+    <string name="action_open_chat_window">Open Chat Window</string>
+    <string name="action_set_custom_photo">Set Custom Photo</string>
+    <string name="action_clear_custom_photo">Clear Custom Photo</string>
+    <string name="action_set_custom_name">Set Custom Name</string>
+    <string name="action_clear_custom_name">Clear Custom Name</string>
+    <string name="action_sync_skype_contacts">Sync Skype Contacts</string>
+    <!--
+    <string name="restricted_access">Restricted Access Mode</string>
+    <string name="restricted_access_summ">Grandroid 
+          will start automatically when the tablet is rebooted, and the user will be
+          prevented from launching other applications.</string>
+    -->
+    <string name="demo_mode">Demo Mode</string>
+    <string name="demo_mode_summ">Overrides certain user\'s photos for demo purposes. </string>
+    <string name="main_contact">Main Contact</string>
+    <string name="main_contact_summ">The Skype Id of the contact 
+        that will be shown at the top of the main screen. </string>
+    <string name="action_open_contacts">Open Contacts</string>
+
+    <string name="button_ok">OK</string>
+    <string name="button_cancel">Cancel</string>
+
+
+</resources>

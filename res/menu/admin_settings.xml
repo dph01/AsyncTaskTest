@@ -1,0 +1,64 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+<!--     <item -->
+<!--         android:id="@+id/action_settings" -->
+<!--         android:orderInCategory="500" -->
+<!--         android:showAsAction="never" -->
+<!--         android:title="@string/action_settings"/> -->
+
+    <!-- TODO remove, for debug only -->
+<!--     <item -->
+<!--         android:id="@+id/action_launch_skype" -->
+<!--         android:orderInCategory="600" -->
+<!--         android:showAsAction="never" -->
+<!--         android:title="@string/action_launch_skype"/> -->
+    <!--
+    <item
+        android:id="@+id/action_open_contacts"
+        android:orderInCategory="700"
+        android:showAsAction="never"
+        android:title="@string/action_open_contacts"/>
+    -->
+    <!--
+    there are here temporarily. They are duplicated from the settings logo. They don't currentley
+    work on the settings log for some reason. Looking into it
+    -->
+<!--     <item -->
+<!--         android:id="@+id/action_android_settings" -->
+<!--         android:orderInCategory="200" -->
+<!--         android:showAsAction="never" -->
+<!--         android:title="@string/action_android_settings"/> -->
+<!--     <item -->
+<!--         android:id="@+id/action_launch_skype_test_call" -->
+<!--         android:orderInCategory="300" -->
+<!--         android:showAsAction="never" -->
+<!--         android:title="@string/action_skype_test_call"/> -->
+<!--     <item -->
+<!--         android:id="@+id/action_login_to_skype" -->
+<!--         android:orderInCategory="400" -->
+<!--         android:showAsAction="never" -->
+<!--         android:title="@string/action_login_to_skype"/> -->
+<!--     <item -->
+<!--         android:id="@+id/action_logout_of_skype" -->
+<!--         android:orderInCategory="500" -->
+<!--         android:showAsAction="never" -->
+<!--         android:title="@string/action_logout_of_skype"/> -->
+<!--     <item -->
+<!--         android:id="@+id/action_sync_skype_contacts" -->
+<!--         android:orderInCategory="600" -->
+<!--         android:showAsAction="never" -->
+<!--         android:title="@string/action_sync_skype_contacts"/> -->
+
+    <item
+        android:id="@+id/action_ovaphone_admin_settings"
+        android:orderInCategory="200"
+        android:showAsAction="never"
+        android:title="@string/action_ovaphone_admin_settings"/>
+
+    <item
+        android:id="@+id/action_quit_main_activity"
+        android:orderInCategory="800"
+        android:showAsAction="never"
+        android:title="@string/action_quit_main_activity"/>
+
+</menu>

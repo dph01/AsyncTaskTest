@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <CheckBoxPreference
+        android:defaultValue="true"
+        android:key="perform_dimming"
+        android:summary="Enable or disable Screen Dimming after a defined period of inactivity"
+        android:title="Enable Screen Dimming" />
+
+    <ListPreference
+        android:defaultValue="60000"
+        android:dependency="perform_dimming"
+        android:entries="@array/timeoutPeriod"
+        android:entryValues="@array/timeoutPeriodValues"
+        android:key="timeout_period"
+        android:summary="Define timeout periods for screen dimming"
+        android:title="Screen dimming period" />
+
+</PreferenceScreen>
