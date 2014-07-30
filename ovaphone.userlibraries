@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="scala-compiler">
+    <archive path="/Applications/Scala/2.10.0/lib/scala-library.jar" />
+    <archive path="/Applications/Scala/2.10.0/lib/scala-reflect.jar" />
+    <archive path="/Applications/Scala/2.10.0/lib/scala-compiler.jar" />
+  </library>
+  <library name="scala-library">
+    <archive path="/Applications/Scala/2.10.0/lib/scala-library.jar" />
+    <archive path="/Applications/Scala/2.10.0/lib/scala-swing.jar" />
+    <archive path="/Applications/Scala/2.10.0/lib/scala-actors.jar" />
+  </library>
+</eclipse-userlibraries>
+
